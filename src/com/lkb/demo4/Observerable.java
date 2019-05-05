@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.lkb.demo4;
 
 /**
  * @Description 被观察者接口
